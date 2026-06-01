@@ -25,3 +25,4 @@ echo "tryxinyminutes"
 # guard against empty input
 # clarify the control flow
 # drop an unused branch
+# handle the edge case from the last release
